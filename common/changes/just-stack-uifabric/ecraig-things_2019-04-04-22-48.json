@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "just-stack-uifabric",
+      "comment": "Upgrade React and TS versions, add custom Jest reporter",
+      "type": "minor"
+    }
+  ],
+  "packageName": "just-stack-uifabric",
+  "email": "elcraig@microsoft.com"
+}

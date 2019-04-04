@@ -17,3 +17,4 @@ temp
 # Rush files
 common/temp/**
 package-deps.json
+package-lock.json
